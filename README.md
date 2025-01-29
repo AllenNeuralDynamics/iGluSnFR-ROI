@@ -1,3 +1,2 @@
-# aind-capsule-template
+# iGluSnFR-Source-Extraction
 
-Basic structure of a capsule to be customized as needed.
